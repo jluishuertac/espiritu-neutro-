@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Espíritu Neutro",
+    "slug": "espiritu-neutro",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.espirituneutro.mobile"
+    },
+    "android": {
+      "package": "app.espirituneutro.mobile"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
